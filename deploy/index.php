@@ -11,6 +11,14 @@
   <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
 
   <style type="text/css">
+    @keyframes animatedBackground {
+      from {
+        background-position: 20% 0%;
+      }
+      to {
+        background-position: 80% 20%;
+      }
+    }
 
     .carousel-item div{
       padding-top: 10px;
@@ -41,6 +49,7 @@
       background-size: cover;
       background-repeat: no-repeat;
       background-position: 50% 50%;
+      animation: animatedBackground 20s ease-in-out infinite alternate;
     }
 
   </style>
