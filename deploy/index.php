@@ -52,6 +52,10 @@
       animation: animatedBackground 20s ease-in-out infinite alternate;
     }
 
+    .link-amazon {
+
+    }
+
   </style>
 
 </head>
@@ -122,6 +126,22 @@
       </div>
     </div>
   </div>
+  <!--<div id="AlexaPromo" class="toast hide" role="alert" aria-live="assertive" aria-atomic="true" data-autohide="false">
+                <div class="toast-header">
+                    <img src="../res/icon/alexa-icon_32.png" class="rounded mr-2" alt="alexa logo">
+                    <strong class="mr-auto">Alexa a casa tua</strong>
+                    <small class="text-muted"><a class="link-amazon" target="_blank" href="https://www.amazon.it/b?node=15752736031&_encoding=UTF8&linkCode=ib1&tag=migio06-21&linkId=14d2d23689b8c31758963a003fbe1d79&ref_=ihub_curatedcontent_12e02956-8586-4a0a-a5cb-b0e770f04bfa">Clicca qui</a></small>
+                    <button type="button" class="ml-2 mb-1 close" data-dismiss="toast" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
+                <div class="toast-body">
+                    <a class="link-amazon" target="_blank" href="https://www.amazon.it/b?node=15752736031&_encoding=UTF8&linkCode=ib1&tag=migio06-21&linkId=14d2d23689b8c31758963a003fbe1d79&ref_=ihub_curatedcontent_12e02956-8586-4a0a-a5cb-b0e770f04bfa">Vuoi comprare un dispoisitivo Alexa? Clicca qui</a>
+                </div>
+            </div>-->
+
+
+
   <a class="carousel-control-prev" href="#carousel" role="button" data-slide="prev">
     <span class="carousel-control-prev-icon" aria-hidden="true"></span>
     <span class="sr-only">Previous</span>
@@ -132,10 +152,27 @@
   </a>
 </div>
 
-
-
-
+<div class="modal" id="AlexaPromo" tabindex="-1" role="dialog">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">Alexa</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">        
+        <a class="link-amazon" target="_blank" href="https://www.amazon.it/b?node=15752736031&_encoding=UTF8&linkCode=ib1&tag=migio06-21&linkId=14d2d23689b8c31758963a003fbe1d79&ref_=ihub_curatedcontent_12e02956-8586-4a0a-a5cb-b0e770f04bfa">Vuoi comprare un dispoisitivo Alexa? Clicca qui</a>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-primary" onclick="window.open('https://www.amazon.it/b?node=15752736031&_encoding=UTF8&linkCode=ib1&tag=migio06-21&linkId=14d2d23689b8c31758963a003fbe1d79&ref_=ihub_curatedcontent_12e02956-8586-4a0a-a5cb-b0e770f04bfa', '_self' , 'width=642, height=620, scrollbars=no,  menubar=no, status=no, scrollbars=no, resizable=yes,screenX=5, screenY=5, left=5, top=5');">Cerca un dispositivo</button>
+        <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+      </div>
+    </div>
+  </div>
+</div>
   
+
   <script type="text/javascript">
 var _iub = _iub || [];
 _iub.csConfiguration = {
@@ -157,5 +194,11 @@ _iub.csConfiguration = {
   
   <script>(function(a,h,d,c,g,f){a.GoogleAnalyticsObject=c;a[c]||(a[c]=function(){(a[c].q=a[c].q||[]).push(arguments)});a[c].l=+new Date;g=h.createElement(d);f=h.getElementsByTagName(d)[0];g.src="//www.google-analytics.com/analytics.js";f.parentNode.insertBefore(g,f)}(window,document,"script","ga"));ga("create","UA-82977202-1","auto");ga("send","pageview");</script>
     
+<script type="text/javascript">
+
+  setTimeout(function(){$('#AlexaPromo').modal('toggle')}, 4000);
+ 
+</script>
+
 </body>
 </html>
