@@ -72,56 +72,56 @@
     <div class="carousel-item active">
       <div class=" row min-vh-100">
         <div class="col-4 col-md-3 col-lg-2">
-          <a href="https://www.amazon.it/Bruni-Michele-Giocatore-iniziale/dp/B086KVLSQL/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=migio06-21&linkId=3762e330141df9442a8ce2a3f5945a93&language=it_IT" >
+          <a href="https://www.amazon.it/Bruni-Michele-Giocatore-iniziale/dp/B086KVLSQL/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=migio21-21&linkId=3762e330141df9442a8ce2a3f5945a93&language=it_IT" >
             <img class="img-fluid" src="img/SP_logo.png" alt="Giocatore iniziale">
           </a>
         </div>
         <div class="col-8 col-md-7 col-lg-5">
           <h5>Giocatore iniziale</h5>
           <p>Viene fornita una regola per determinare in modo casuale e divertente chi è il primo giocatore, sono presenti quasi 200 regole e puoi suggerirne una nuova anche tu!</p>
-          <a href="https://www.amazon.it/Bruni-Michele-Giocatore-iniziale/dp/B086KVLSQL/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=migio06-21&linkId=3762e330141df9442a8ce2a3f5945a93&language=it_IT" class="btn btn-primary">Attiva</a>
+          <a href="https://www.amazon.it/Bruni-Michele-Giocatore-iniziale/dp/B086KVLSQL/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=migio21-21&linkId=3762e330141df9442a8ce2a3f5945a93&language=it_IT" class="btn btn-primary">Attiva</a>
         </div>
       </div>
     </div>
     <div class="carousel-item">
       <div class=" row min-vh-100">
         <div class="col-4 col-md-3 col-lg-2">
-          <a href="https://www.amazon.it/Bruni-Michele-Geek-Pizza/dp/B087CBTTB6/ref/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=migio06-21&linkId=6c900d7fbc787458b6513b3652636484&language=it_IT" >
+          <a href="https://www.amazon.it/Bruni-Michele-Geek-Pizza/dp/B087CBTTB6/ref/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=migio21-21&linkId=6c900d7fbc787458b6513b3652636484&language=it_IT" >
             <img class="img-fluid" src="img/GP_logo.png" alt="Geek.pizza">
           </a>
         </div>
         <div class="col-8 col-md-7 col-lg-5">
           <h5>Geek.pizza</h5>
           <p>Notizie, recensioni e approfondimenti dal mondo dei giochi da tavolo.</p>
-          <a href="https://www.amazon.it/Bruni-Michele-Geek-Pizza/dp/B087CBTTB6/ref/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=migio06-21&linkId=6c900d7fbc787458b6513b3652636484&language=it_IT" class="btn btn-primary">Attiva</a>
+          <a href="https://www.amazon.it/Bruni-Michele-Geek-Pizza/dp/B087CBTTB6/ref/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=migio21-21&linkId=6c900d7fbc787458b6513b3652636484&language=it_IT" class="btn btn-primary">Attiva</a>
         </div>
       </div>
     </div>
     <div class="carousel-item">
       <div class=" row min-vh-100">
         <div class="col-4 col-md-3 col-lg-2">
-          <a href="https://www.amazon.it/Bruni-Michele-Fustella-Rotante/dp/B087TSQ7PH/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=migio06-21&linkId=eb7468e4c2730e2b9e3e7b30da1d4648&language=it_IT" >
+          <a href="https://www.amazon.it/Bruni-Michele-Fustella-Rotante/dp/B087TSQ7PH/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=migio21-21&linkId=eb7468e4c2730e2b9e3e7b30da1d4648&language=it_IT" >
             <img class="img-fluid" src="img/FR_logo.png" alt="Geek.pizza">
           </a>
         </div>
         <div class="col-8 col-md-7 col-lg-5">
           <h5>Fustella Rotante</h5>
           <p>Fustella Rotante è il programma radiofonico indipendente interamente dedicato a Giochi da Tavolo e dintorni in onda su Radio Epicentro. In studio Fox, Andy, Nik e ShElly vi intratterranno con novanta minuti di chiacchiere sull'argomento, portandovi le loro esperienze di giocatori.</p>
-          <a href="https://www.amazon.it/Bruni-Michele-Fustella-Rotante/dp/B087TSQ7PH/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=migio06-21&linkId=eb7468e4c2730e2b9e3e7b30da1d4648&language=it_IT" class="btn btn-primary">Attiva</a>
+          <a href="https://www.amazon.it/Bruni-Michele-Fustella-Rotante/dp/B087TSQ7PH/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=migio21-21&linkId=eb7468e4c2730e2b9e3e7b30da1d4648&language=it_IT" class="btn btn-primary">Attiva</a>
         </div>
       </div>
     </div>
     <div class="carousel-item">
       <div class=" row min-vh-100">
         <div class="col-4 col-md-3 col-lg-2">
-          <a href="https://www.amazon.it/Bruni-Michele-Dunwich-Buyers-Club/dp/B088C26K12/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=migio06-21&linkId=59b67d782f22a1b3c9f4ae9e328a56bd&language=it_IT" >
+          <a href="https://www.amazon.it/Bruni-Michele-Dunwich-Buyers-Club/dp/B088C26K12/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=migio21-21&linkId=59b67d782f22a1b3c9f4ae9e328a56bd&language=it_IT" >
             <img class="img-fluid" src="img/DBC_logo.png" alt="Dunwich Buyers Club">
           </a>
         </div>
         <div class="col-8 col-md-7 col-lg-5">
           <h5>Dunwich Buyers Club</h5>
           <p>Il Dunwich Buyers Club è un podcast di giochi e avventure che ogni settimana porta a casa vostra il mondo dei giochi da tavolo e dei giochi di ruolo.</p>
-          <a href="https://www.amazon.it/Bruni-Michele-Dunwich-Buyers-Club/dp/B088C26K12/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=migio06-21&linkId=59b67d782f22a1b3c9f4ae9e328a56bd&language=it_IT" class="btn btn-primary">Attiva</a>
+          <a href="https://www.amazon.it/Bruni-Michele-Dunwich-Buyers-Club/dp/B088C26K12/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=migio21-21&linkId=59b67d782f22a1b3c9f4ae9e328a56bd&language=it_IT" class="btn btn-primary">Attiva</a>
         </div>
       </div>
     </div>
@@ -130,13 +130,13 @@
                 <div class="toast-header">
                     <img src="../res/icon/alexa-icon_32.png" class="rounded mr-2" alt="alexa logo">
                     <strong class="mr-auto">Alexa a casa tua</strong>
-                    <small class="text-muted"><a class="link-amazon" target="_blank" href="https://www.amazon.it/b?node=15752736031&_encoding=UTF8&linkCode=ib1&tag=migio06-21&linkId=14d2d23689b8c31758963a003fbe1d79&ref_=ihub_curatedcontent_12e02956-8586-4a0a-a5cb-b0e770f04bfa">Clicca qui</a></small>
+                    <small class="text-muted"><a class="link-amazon" target="_blank" href="https://www.amazon.it/b?node=15752736031&_encoding=UTF8&linkCode=ib1&tag=migio21-21&linkId=14d2d23689b8c31758963a003fbe1d79&ref_=ihub_curatedcontent_12e02956-8586-4a0a-a5cb-b0e770f04bfa">Clicca qui</a></small>
                     <button type="button" class="ml-2 mb-1 close" data-dismiss="toast" aria-label="Close">
                         <span aria-hidden="true">&times;</span>
                     </button>
                 </div>
                 <div class="toast-body">
-                    <a class="link-amazon" target="_blank" href="https://www.amazon.it/b?node=15752736031&_encoding=UTF8&linkCode=ib1&tag=migio06-21&linkId=14d2d23689b8c31758963a003fbe1d79&ref_=ihub_curatedcontent_12e02956-8586-4a0a-a5cb-b0e770f04bfa">Vuoi comprare un dispoisitivo Alexa? Clicca qui</a>
+                    <a class="link-amazon" target="_blank" href="https://www.amazon.it/b?node=15752736031&_encoding=UTF8&linkCode=ib1&tag=migio21-21&linkId=14d2d23689b8c31758963a003fbe1d79&ref_=ihub_curatedcontent_12e02956-8586-4a0a-a5cb-b0e770f04bfa">Vuoi comprare un dispoisitivo Alexa? Clicca qui</a>
                 </div>
             </div>-->
 
@@ -162,10 +162,10 @@
         </button>
       </div>
       <div class="modal-body">        
-        <a class="link-amazon" target="_blank" href="https://www.amazon.it/b?node=15752736031&_encoding=UTF8&linkCode=ib1&tag=migio06-21&linkId=14d2d23689b8c31758963a003fbe1d79&ref_=ihub_curatedcontent_12e02956-8586-4a0a-a5cb-b0e770f04bfa">Vuoi comprare un dispoisitivo Alexa? Clicca qui</a>
+        <a class="link-amazon" target="_blank" href="https://www.amazon.it/b?node=15752736031&_encoding=UTF8&linkCode=ib1&tag=migio21-21&linkId=14d2d23689b8c31758963a003fbe1d79&ref_=ihub_curatedcontent_12e02956-8586-4a0a-a5cb-b0e770f04bfa">Vuoi comprare un dispoisitivo Alexa? Clicca qui</a>
       </div>
       <div class="modal-footer">
-        <button type="button" class="btn btn-primary" onclick="window.open('https://www.amazon.it/b?node=15752736031&_encoding=UTF8&linkCode=ib1&tag=migio06-21&linkId=14d2d23689b8c31758963a003fbe1d79&ref_=ihub_curatedcontent_12e02956-8586-4a0a-a5cb-b0e770f04bfa', '_self' , 'width=642, height=620, scrollbars=no,  menubar=no, status=no, scrollbars=no, resizable=yes,screenX=5, screenY=5, left=5, top=5');">Cerca un dispositivo</button>
+        <button type="button" class="btn btn-primary" onclick="window.open('https://www.amazon.it/b?node=15752736031&_encoding=UTF8&linkCode=ib1&tag=migio21-21&linkId=14d2d23689b8c31758963a003fbe1d79&ref_=ihub_curatedcontent_12e02956-8586-4a0a-a5cb-b0e770f04bfa', '_self' , 'width=642, height=620, scrollbars=no,  menubar=no, status=no, scrollbars=no, resizable=yes,screenX=5, screenY=5, left=5, top=5');">Cerca un dispositivo</button>
         <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
       </div>
     </div>
